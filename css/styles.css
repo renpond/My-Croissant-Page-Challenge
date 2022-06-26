@@ -1,5 +1,12 @@
 body {
-  font-size: medium;
   color: aliceblue;
   background-color: blue;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: aliceblue;
 }
